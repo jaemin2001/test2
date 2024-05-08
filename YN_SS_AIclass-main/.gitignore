@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*.lock
+*.log
+*.db
+*.csv
+*.xlsx
+
+__pycache__/
+.venv/
